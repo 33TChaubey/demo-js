@@ -1,15 +1,2 @@
 console.log("Hello");
 
-
-
-
-
-
-
-
-
-
-
-
-
-;
