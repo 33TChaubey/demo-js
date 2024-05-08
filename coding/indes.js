@@ -1,0 +1,1 @@
+console.log("indes.js inside coding");
